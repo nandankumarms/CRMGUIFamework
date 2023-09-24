@@ -1,0 +1,7 @@
+{
+"browser" : "Firefox",
+"url" : "http://localhost:8888",
+"userName" : "admin",
+"password" : "manager"
+"timeOut" : 20
+}
